@@ -1,0 +1,6 @@
+.DS_Store
+application.log
+target/
+.iml
+.idea/
+cache/
